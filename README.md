@@ -1,6 +1,6 @@
 # Solace* Event Manager
 
-Being a creative collective and all, Solace needs digital invitations that reflect our aesthetic and vision. The Solace Event Manager is a project that can allow for an elective, customizable invitee experience while handling and managing rsvp data. I also need projects for my UI/UX portfolio <3
+Being a creative collective and all, Solace needs digital invitations that reflect our aesthetic and vision. The Solace Event Manager is a project that can allow for an elective, customizable invitee experience while handling and managing rsvp data. I also need projects for my front end dev portfolio <3
 
 
 ## Installation
